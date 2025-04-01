@@ -1,0 +1,17 @@
+name = 'wuhaolei'
+age = 20
+hobbies = ['read', 'sing']
+birthday = 2001-08-08T08:08:08Z
+# [account.github]
+# email = 'nell53052@gmail.com'
+# password = 123456
+[[account]]
+name = 'github'
+email = 'nell53052@gmail.com'
+password = 123456
+
+[[account]]
+name = 'qq'
+email = '1677378468@qq.com'
+password = 123456
+
